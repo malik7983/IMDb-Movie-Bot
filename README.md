@@ -47,6 +47,10 @@ add optional larger result buttons:
 ## Deploy
 You can deploy this bot anywhere.
 
+
+<a href="https://heroku.com/deploy?template=https://github.com/malik7983/IMDb-Movie-Bot">
+
+
 <details><summary>Deploy to Heroku</summary>
 <p>
 <br>
